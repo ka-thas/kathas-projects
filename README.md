@@ -1,1 +1,1 @@
-test
+Repo for hosting my vanilla JS projects
