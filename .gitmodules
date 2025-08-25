@@ -1,0 +1,18 @@
+[submodule "flashcards"]
+	path = flashcards
+	url = git@github.com:ka-thas/flashcards.git
+[submodule "boids"]
+	path = boids
+	url = git@github.com:ka-thas/boids.git
+[submodule "snake-js"]
+	path = snake-js
+	url = git@github.com:ka-thas/snake-js.git
+[submodule "plant"]
+	path = plant
+	url = git@github.com:ka-thas/plant.git
+[submodule "nursery-website"]
+	path = nursery-website
+	url = git@github.com:ka-thas/nursery-website.git
+[submodule "electric-scooter-map"]
+	path = electric-scooter-map
+	url = git@github.com:ka-thas/electric-scooter-map.git
