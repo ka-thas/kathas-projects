@@ -16,3 +16,9 @@
 [submodule "electric-scooter-map"]
 	path = electric-scooter-map
 	url = git@github.com:ka-thas/electric-scooter-map.git
+[submodule "PSO"]
+	path = PSO
+	url = git@github.com:ka-thas/PSO.git
+[submodule "dvd-bounce"]
+	path = dvd-bounce
+	url = git@github.com:ka-thas/dvd-bounce.git
