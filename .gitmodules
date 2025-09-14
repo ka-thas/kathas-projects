@@ -22,3 +22,6 @@
 [submodule "dvd-bounce"]
 	path = dvd-bounce
 	url = git@github.com:ka-thas/dvd-bounce.git
+[submodule "cyb-screensaver"]
+	path = cyb-screensaver
+	url = git@github.com:cybernetisk/cyb-screensaver.git
