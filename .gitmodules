@@ -25,3 +25,6 @@
 [submodule "cyb-screensaver"]
 	path = cyb-screensaver
 	url = git@github.com:cybernetisk/cyb-screensaver.git
+[submodule "calendar-of-life"]
+	path = calendar-of-life
+	url = git@github.com:ka-thas/calendar-of-life.git
