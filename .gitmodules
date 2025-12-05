@@ -28,3 +28,6 @@
 [submodule "calendar-of-life"]
 	path = calendar-of-life
 	url = git@github.com:ka-thas/calendar-of-life.git
+[submodule "beeclust"]
+	path = beeclust
+	url = git@github.com:ka-thas/beeclust.git
