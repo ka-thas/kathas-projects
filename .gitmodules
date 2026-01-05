@@ -34,3 +34,5 @@
 [submodule "chameleon"]
 	path = chameleon
 	url = git@github.com:ka-thas/chameleon.git
+
+# git pull --recurse-submodules
