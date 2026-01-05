@@ -31,3 +31,6 @@
 [submodule "beeclust"]
 	path = beeclust
 	url = git@github.com:ka-thas/beeclust.git
+[submodule "chameleon"]
+	path = chameleon
+	url = git@github.com:ka-thas/chameleon.git
