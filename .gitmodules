@@ -34,5 +34,9 @@
 [submodule "chameleon"]
 	path = chameleon
 	url = git@github.com:ka-thas/chameleon.git
+[submodule "pomodoro"]
+	path = pomodoro
+	url = git@github.com:ka-thas/pomodoro.git
 
+# git submodule add <url> pomodoro
 # git pull --recurse-submodules
