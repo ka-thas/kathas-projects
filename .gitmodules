@@ -37,6 +37,9 @@
 [submodule "pomodoro"]
 	path = pomodoro
 	url = git@github.com:ka-thas/pomodoro.git
+[submodule "steinsakspapir"]
+	path = steinsakspapir
+	url = git@github.com:ka-thas/steinsakspapir.git
 
 # git submodule add <url> pomodoro
 # git pull --recurse-submodules
