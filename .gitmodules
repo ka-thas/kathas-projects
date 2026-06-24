@@ -43,3 +43,6 @@
 
 # git submodule add <url> pomodoro
 # git pull --recurse-submodules
+[submodule "quizzler"]
+	path = quizzler
+	url = git@github.com:ka-thas/quizzler.git
